@@ -1,0 +1,1 @@
+- [Arabic AI Bot Architecture](arabic-bot-arch.md) — منصة تيليغرام عربية كاملة، main.py هو نقطة الدخول، BOT_TOKEN اختياري في pydantic-settings لتجنب crash عند الاستيراد
